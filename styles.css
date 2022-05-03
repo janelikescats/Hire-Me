@@ -1,0 +1,28 @@
+body {
+    background:url("http://backgroundlabs.com/files/light-grey-moroccan-pattern-3021.png");
+	text-align:center;}
+img {border:blue;}
+
+h1 {
+    font-family: staatliches;
+    color: cornflowerblue;
+}
+
+.pronouns {
+    color: #0c538a;
+}
+
+.questions {
+    font-family: dongle;
+    font-size:25px;
+    color: #083599;
+}
+
+.grade {
+    font-family: Mochiy Pop P One;
+    color: #00ace6;
+}
+
+.answers {
+    color: royalblue;
+}
